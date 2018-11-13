@@ -1,0 +1,30 @@
+Your API key is: ed53cd30bd68429a91982f5613544723
+
+cff4aa421fae4c30a27c064004dcedad
+
+data.sources.length
+
+https://codepen.io/chriswrightdesign/pen/cmanI ���������
+
+https://newsapi.org/v2/top-headlines?sources=abc-news&apiKey=ed53cd30bd68429a91982f5613544723
+
+������ : 
+
+https://newsapi.org/docs/endpoints/sources
+
+https://newsapi.org/s/abc-news-api
+
+https://icon-locator.herokuapp.com/icon?url=https://www.aftenposten.no&amp;size=70..120..20
+
+
+https://catynials.newsapi.org/collect?v=1&_v=j68&a=583584573&t=pageview&_s=1&dl=https%3A%2F%2Fnewsapi.org%2F&ul=ru-ru&de=UTF-8&dt=News%20API%20-%20A%20JSON%20API%20for%20live%20news%20and%20blog%20articles&sd=24-bit&sr=1366x768&vp=1349x391&je=0&_u=AACAAEAB~&jid=&gjid=&cid=456408514.1541847040&tid=UA-17563040-17&_gid=1774196356.1541847040&z=363878743
+
+
+https://newsapi.org/v2/everything?q=apple&sortBy=popularity&apiKey=d53cd30bd68429a91982f5613544723
+
+улучшение по фичам es6
+модули, классы, стрелочные функции, возможно что-то нужно в объект закинуть
+сделать адаптивный дизайн, 
+сделать скрипт для NEWS BAR,
+прикрутить преолайдер - подумать как сделать
+что отображать для ERROR ????
